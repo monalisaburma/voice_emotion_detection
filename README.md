@@ -27,7 +27,7 @@ The emotion detection model is trained on the Toronto Emotional Speech Set (TESS
 
 ## Dataset
 
-The training dataset used for this project is the Toronto Emotional Speech Set (TESS). You can find the TESS dataset [here]([provide_dataset_link](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess)).
+The training dataset used for this project is the Toronto Emotional Speech Set (TESS). You can find the TESS dataset [here](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess).
 
 ## NullClass Internship
 
