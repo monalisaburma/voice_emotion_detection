@@ -16,7 +16,9 @@ This project implements a Voice Emotion Detection system using machine learning 
 
 - Click the "Upload Voice File" button to select an audio file for emotion detection.
 - Click the "Start Recording" button to record your voice and get real-time emotion predictions.
+
 **Output Sample:**
+
 l![Screenshot (104)](https://github.com/monalisaburma/voice_emotion_detection/assets/122416015/a21ed31c-35a8-451a-8355-c45b386f8968)
 
 ## Model
