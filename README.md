@@ -1,6 +1,6 @@
 # Voice Emotion Detection
 
-This project implements a Voice Emotion Detection system using machine learning techniques. It includes a graphical user interface (GUI) for real-time emotion recognition and a machine learning model trained on the Toronto Emotional Speech Set (TESS) dataset.
+This project implements a Voice Emotion Detection system using machine learning techniques, specifically leveraging a Long Short-Term Memory (LSTM) neural network model. The system comprises a graphical user interface (GUI) for real-time emotion recognition and a machine learning model trained on the Toronto Emotional Speech Set (TESS) dataset.
 
 ## Files
 
@@ -16,6 +16,8 @@ This project implements a Voice Emotion Detection system using machine learning 
 
 - Click the "Upload Voice File" button to select an audio file for emotion detection.
 - Click the "Start Recording" button to record your voice and get real-time emotion predictions.
+**Output Sample:**
+l![Screenshot (104)](https://github.com/monalisaburma/voice_emotion_detection/assets/122416015/a21ed31c-35a8-451a-8355-c45b386f8968)
 
 ## Model
 
